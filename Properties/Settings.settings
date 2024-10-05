@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="ChaChaCombiner.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="OutputDirectory" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="StereoAutoAlignEXEPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Programs\StereoPhoto Maker\StereoAutoAlign.exe</Value>
+    </Setting>
+    <Setting Name="RawTherapeeCLIEXEPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Program Files\RawTherapee\5.8\rawtherapee-cli.exe</Value>
+    </Setting>
+    <Setting Name="NunifPromptBATPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Programs\nunif-windows\nunif-prompt.bat</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
